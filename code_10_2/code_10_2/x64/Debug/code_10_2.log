@@ -1,0 +1,4 @@
+﻿  test1.c
+D:\桌面\C_Codes\code_10_2\code_10_2\test1.c(23,3): warning C4013: “system”未定义；假设外部返回 int
+D:\桌面\C_Codes\code_10_2\code_10_2\test1.c(27,7): warning C4013: “strcmp”未定义；假设外部返回 int
+  code_10_2.vcxproj -> D:\桌面\C_Codes\code_10_2\x64\Debug\code_10_2.exe
